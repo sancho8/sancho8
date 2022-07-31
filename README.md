@@ -1,5 +1,5 @@
 ### Hi there 👋
-![https://www.codewars.com/users/sancho8](https://www.codewars.com/users/sancho8/badges/small)(https://www.codewars.com/users/sancho8)
+[![https://www.codewars.com/users/sancho8](https://www.codewars.com/users/sancho8/badges/small)](https://www.codewars.com/users/sancho8)
 <!--
 **sancho8/sancho8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
